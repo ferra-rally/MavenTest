@@ -1,2 +1,6 @@
 language: java
+
+jdk: 
+  - oraclejdk15
+
 script: mvn clean build
